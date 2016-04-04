@@ -436,30 +436,6 @@ for iter=1:length(T)
     plot([theta5(iter),theta5(iter)],[bias,bias],'rs','MarkerSize',20,'MarkerEdgeColor','none','MarkerFaceColor','r');
     hold on;
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     axis([-3,3,-3,3]); %xmin xmax ymin ymax
     file=sprintf('Frame%d.jpg', 1000+iter);
     disp(sprintf('Saving to %s', file));
