@@ -1,6 +1,0 @@
-# Visualizing the normal modes of a spring-mass system
-This repo contains the Matlab code for visualizing the normal modes of a spring-mass system. The video based on this code, and several others, can be found on this [youtube video](https://www.youtube.com/watch?v=t9-1UmBAQOg).
-
-## Files
-
-`fivemodes_fixeBC.m` this code plots the five normal modes of a spring-mass system having five masses and fixed boundary conditions. The plots are each stored as a jpg file, which can then be strung together to create an animation.
